@@ -5,7 +5,7 @@
 
 ### 👨‍💻 About Me
 
-I'm a dedicated university student with a strong passion for software development, currently diving deep into **game development using C++ and Raylib**. I have solid knowledge of **OOP principles** and hands-on experience in **web technologies** with an increasing interest in **AI model training and development**.
+I'm a university student at **FAST NUCES Karachi**, set to graduate in **2028**. I'm deeply passionate about software development and currently diving into **game development using C++ and Raylib**. I have solid knowledge of **OOP principles**, hands-on experience in **web technologies**, and a growing interest in **AI model training and intelligent systems**.
 
 ---
 
@@ -66,4 +66,3 @@ I'm a dedicated university student with a strong passion for software developmen
 - 🤝 Open to collaboration in game dev, AI projects, or anything creative  
 
 ---
-
