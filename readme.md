@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Muzamil Ali Suleman</h1>
+<h1 align="center">Hello, I'm Muzamil Ali Suleman! 🤝</h1>
 <p align="center">C++ Game Developer | Web Developer | AI & OOP Enthusiast</p>
 
 ---
@@ -54,7 +54,6 @@ I'm a university student at **FAST NUCES Karachi**, set to graduate in **2028**.
 ### 📈 GitHub Stats
 
 <p align="center">
-  ![Profile views](https://komarev.com/ghpvc/?username=MUZAMILALISULEMAN)
   <img src="https://github-readme-stats.vercel.app/api?username=MUZAMILALISULEMAN&show_icons=true&theme=default" height="160"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MUZAMILALISULEMAN&theme=default" height="160"/>
 </p>
