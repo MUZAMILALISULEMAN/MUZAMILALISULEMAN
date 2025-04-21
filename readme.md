@@ -54,15 +54,15 @@ I'm a dedicated university student with a strong passion for software developmen
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=default" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=MUZAMILALISULEMAN&show_icons=true&theme=default" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MUZAMILALISULEMAN&theme=default" height="160"/>
 </p>
 
 ---
 
 ### 📬 Let's Connect
 
-- 📧 Email: [your-email@example.com](mailto:your-email@example.com)  
+- 📧 Email: [muzamil.ali1099@gmail.com](mailto:muzamil.ali1099@gmail.com)  
 - 🤝 Open to collaboration in game dev, AI projects, or anything creative  
 
 ---
