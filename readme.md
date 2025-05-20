@@ -54,16 +54,16 @@ I'm a university student at **FAST NUCES Karachi**, set to graduate in **2028**.
 ### 📈 GitHub Stats
 
 <p align="center">
-  <p align="left"> <img src="https://komarev.com/ghpvc/?username=MUZAMILALISULEMAN&label=Profile%20views&color=0e75b6&style=flat" alt="shamveel-khan" /> </p>
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=MUZAMILALISULEMAN&label=Profile%20views&color=0e75b6&style=flat" alt="MUZAMIL SULEMAN" /> </p>
   <img src="https://github-readme-stats.vercel.app/api?username=MUZAMILALISULEMAN&show_icons=true&theme=default" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MUZAMILALISULEMAN&theme=default" height="160"/>
+
 </p>
 
 ---
 
 ### 📬 Let's Connect
 
-- 📧 Email: [muzamil.ali1099@gmail.com](mailto:muzamil.ali1099@gmail.com)  
+- 📧 Email: [muzamil.ali1099@gmail.com](mailto:muzamil.workdev@gmail.com)  
 - 🤝 Open to collaboration in game dev, AI projects, or anything creative  
 
 ---
