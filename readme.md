@@ -1,69 +1,94 @@
-<h1 align="center">Hello, I'm Muzamil Ali Suleman! 🤝</h1>
-<p align="center">C++ Game Developer | Web Developer | AI & ML | NETWORKING | OPERATING SYSTEMS </p>
+<!-- Banner Image -->
+<p align="center">
+  <img src="https://your-banner-link.com/banner.png" alt="Banner" />
+</p>
 
----
-
-### 👨‍💻 About Me
-
-I'm a university student at **FAST NUCES Karachi**, set to graduate in **2028**. I'm deeply passionate about software development and currently diving into **game development using C++ and Raylib**. I have solid knowledge of **OOP principles**, hands-on experience in **web technologies**, and a growing interest in **AI model training and intelligent systems**.
-
----
-
-### 🚀 Tech Stack
-
-**Languages**  
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-
-**Libraries & Frameworks**  
-![Raylib](https://img.shields.io/badge/Raylib-000000?style=flat-square)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-
-**Tools**  
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-
----
-
-### 🧩 Core Skills
-
-- **Game Development**: Building interactive GUI-based games with Raylib in C++
-- **Web Development**: React-based frontend development with clean, responsive UI
-- **OOP Mastery**: Strong understanding of object-oriented design and patterns
-- **AI Interest**: Actively exploring model training, optimization, and intelligent systems
-
----
-
-### 🧠 Projects
-
-- 🎮 **Multiplayer Pong Game**  
-  Built in C++ using Raylib. Features multiple modes, achievements, skins, and UI scaling.
-
-- 🧠 **Mind Discipline Tracker** *(In Progress)*  
-  A Python tool to log habits, reflections, and track mental growth.
-
-- 🤖 **AI Exploration Zone** *(Coming Soon)*  
-  Personal experiments with AI training, model behavior, and data simulations.
-
----
-
-### 📈 GitHub Stats
+<h1 align="center">Hi there, I'm Muzamil Ali Suleman! 👋</h1>
+<p align="center">
+  🎮 Game Developer | 🌐 Web Developer | 🤖 AI Enthusiast | 📡 Networking | 🧠 ML Explorer | 🗃️ DB Manager
+</p>
 
 <p align="center">
-  <p align="left"> <img src="https://komarev.com/ghpvc/?username=MUZAMILALISULEMAN&label=Profile%20views&color=0e75b6&style=flat" alt="MUZAMIL SULEMAN" /> </p>
-  <img src="https://github-readme-stats.vercel.app/api?username=MUZAMILALISULEMAN&show_icons=true&theme=default" height="160"/>
-
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=0A7EB6&center=true&width=800&lines=Aspiring+Software+Engineer;C%2B%2B+Game+Developer;AI+%26+ML+Learner;Full-Stack+Explorer" alt="Typing SVG" />
 </p>
 
 ---
 
-### 📬 Let's Connect
+## 👨‍💻 About Me
 
-- 📧 Email: [muzamil.ali1099@gmail.com](mailto:muzamil.workdev@gmail.com)  
-- 🤝 Open to collaboration in game dev, AI projects, or anything creative  
+🎓 I'm a Computer Science student at **FAST NUCES Karachi**, graduating in **2028**.  
+🧠 Passionate about **building immersive games**, exploring **AI/ML**, and creating **intelligent, responsive UIs**.  
+💡 Currently focused on **game development using C++ and Raylib**, while diving into **AI model training** and advanced software systems.
 
 ---
+
+## 🧰 Tech Stack
+
+**Languages**  
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+**Libraries & Frameworks**  
+![Raylib](https://img.shields.io/badge/Raylib-000000?style=for-the-badge)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+**Tools & Platforms**  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+---
+
+## 🚀 Core Skills
+
+- 🎮 **Game Development**: Creating GUI-driven C++ games with Raylib
+- 🌐 **Frontend Development**: Interactive UIs using React & modern web practices
+- 🧩 **Object-Oriented Programming**: Deep understanding of OOP principles
+- 🧠 **AI & Machine Learning**: Exploring models, intelligent systems, and data science foundations
+
+---
+
+## 🔧 Projects
+
+| Project | Description |
+|--------|-------------|
+| 🎮 **Multiplayer Pong Game** | Classic Pong reimagined in C++ with Raylib. Multiplayer modes, skins, achievements & scalable UI. |
+| 🧠 **Mind Discipline Tracker** *(In Progress)* | A CLI-based Python tool for habit tracking and self-reflection. |
+| 🤖 **AI Exploration Zone** *(Coming Soon)* | A personal sandbox for testing AI/ML models, optimizations, and simulations. |
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=MUZAMILALISULEMAN&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MUZAMILALISULEMAN&show_icons=true&theme=default" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MUZAMILALISULEMAN&layout=compact&theme=default" height="160" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=MUZAMILALISULEMAN&theme=default" height="160"/>
+</p>
+
+---
+
+## 📬 Connect with Me
+
+<p align="center">
+  <a href="mailto:muzamil.ali1099@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://www.linkedin.com/in/your-linkedin-id/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
+
+---
+
+> *“The only way to do great work is to love what you do.” – Steve Jobs*
