@@ -1,5 +1,5 @@
 <h1 align="center">Hello, I'm Muzamil Ali Suleman! 🤝</h1>
-<p align="center">C++ Game Developer | Web Developer | AI & OOP Enthusiast</p>
+<p align="center">C++ Game Developer | Web Developer | AI & ML | NETWORKING | OPERATING SYSTEMS </p>
 
 ---
 
