@@ -1,7 +1,8 @@
 
+
 <h1 align="center">Hi there, I'm Muzamil Ali Suleman! 👋</h1>
 <p align="center">
-  🎮 Game Developer | 🌐 Web Developer | 🤖 AI Enthusiast | 📡 Networking | 🧠 ML Explorer | 🗃️ DB Manager
+  🎮 Game Developer | 🌐 Web Developer | 🤖 AI Enthusiast | 📡 Networking | 🧠 ML Explorer | 🗃️ DB Manager | 🎨 UI \ UX
 </p>
 
 <p align="center">
@@ -40,17 +41,13 @@
 
 ## 🚀 Core Skills
 
-- ![Game Dev](https://img.shields.io/badge/Game%20Development-FF5733?style=flat-square&logo=unity&logoColor=white)
-  Building interactive 2D/3D games using **C++ and Raylib** with focus on gameplay mechanics and performance.
+- 🎮 **Game Development** — Creating 2D/3D games using **C++ and Raylib**, focused on gameplay mechanics and performance.
 
-- ![Web Dev](https://img.shields.io/badge/Web%20Development-00BFFF?style=flat-square&logo=javascript&logoColor=white)
-  Creating responsive web interfaces using **HTML**, **CSS**, and **JavaScript** with modern UI/UX practices.
+- 🌐 **Web Development** — Building responsive and dynamic websites using **HTML**, **CSS**, and **JavaScript** (no frameworks).
 
-- ![OOP](https://img.shields.io/badge/OOP%20Design-8E44AD?style=flat-square&logo=abstract&logoColor=white)
-  Strong foundation in **object-oriented programming**, design patterns, and modular code architecture.
+- 🧱 **Object-Oriented Programming (OOP)** — Strong grasp of **modular architecture**, design principles, and clean code practices.
 
-- ![AI/ML](https://img.shields.io/badge/AI%20%26%20ML-2ECC71?style=flat-square&logo=tensorflow&logoColor=white)
-  Exploring AI models, training techniques, and building **intelligent Python-based systems**.
+- 🤖 **AI & ML Fundamentals** — Exploring AI models and training logic in **Python**, experimenting with intelligent systems.
 
 ---
 
