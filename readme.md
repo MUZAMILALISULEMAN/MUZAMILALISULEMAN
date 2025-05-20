@@ -1,8 +1,6 @@
 
 <p align="center">
-  <img src="https://github.com/MUZAMILALISULEMAN
-/MUZAMILALISULEMAN
-/blob/main/img.jpg?raw=true" alt="Banner" />
+  <img src="https://github.com/MUZAMILALISULEMAN/MUZAMILALISULEMAN/blob/main/img.jpg?raw=true" alt="Banner" />
 </p>
 
 </p>
