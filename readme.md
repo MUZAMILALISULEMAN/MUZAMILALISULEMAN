@@ -1,10 +1,4 @@
 
-<p align="center">
-  <img src="https://github.com/MUZAMILALISULEMAN/MUZAMILALISULEMAN/blob/main/img.jpg?raw=true" alt="Banner" />
-</p>
-
-</p>
-
 <h1 align="center">Hi there, I'm Muzamil Ali Suleman! 👋</h1>
 <p align="center">
   🎮 Game Developer | 🌐 Web Developer | 🤖 AI Enthusiast | 📡 Networking | 🧠 ML Explorer | 🗃️ DB Manager
