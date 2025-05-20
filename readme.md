@@ -1,4 +1,4 @@
-<!-- 🖼️ Banner -->
+
 <p align="center">
   <img src="https://www.canva.com/design/DAGn__xwTlA/RRwgT2ZI3uyp5rIry1c18w/view?utm_content=DAGn__xwTlA&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=he276476a82" alt="Banner" />
 </p>
@@ -44,12 +44,17 @@
 
 ## 🚀 Core Skills
 
-| Skill | Description |
-|-------|-------------|
-| ![Game Dev](https://img.shields.io/badge/Game_Development-FF5733?style=for-the-badge&logo=godot-engine&logoColor=white) | Creating GUI-based games in **C++ using Raylib** with custom mechanics, multiplayer features & scaling UI |
-| ![Frontend Dev](https://img.shields.io/badge/Web_Development-00BFFF?style=for-the-badge&logo=javascript&logoColor=white) | Responsive frontend development using **React**, **JavaScript**, **HTML/CSS**, and interactive UI design |
-| ![OOP](https://img.shields.io/badge/OOP_Principles-8E44AD?style=for-the-badge&logo=codefactor&logoColor=white) | Mastery in **object-oriented design**, encapsulation, inheritance, and software architecture patterns |
-| ![AI/ML](https://img.shields.io/badge/AI_&_ML_Exploration-2ECC71?style=for-the-badge&logo=keras&logoColor=white) | Beginner-level **AI/ML development** using Python, with focus on model training, optimization, and simulations |
+- ![Game Dev](https://img.shields.io/badge/Game%20Development-FF5733?style=flat-square&logo=unity&logoColor=white)
+  Building interactive 2D/3D games using **C++ and Raylib** with focus on gameplay mechanics and performance.
+
+- ![Web Dev](https://img.shields.io/badge/Web%20Development-00BFFF?style=flat-square&logo=javascript&logoColor=white)
+  Creating responsive web interfaces using **HTML**, **CSS**, and **JavaScript** with modern UI/UX practices.
+
+- ![OOP](https://img.shields.io/badge/OOP%20Design-8E44AD?style=flat-square&logo=abstract&logoColor=white)
+  Strong foundation in **object-oriented programming**, design patterns, and modular code architecture.
+
+- ![AI/ML](https://img.shields.io/badge/AI%20%26%20ML-2ECC71?style=flat-square&logo=tensorflow&logoColor=white)
+  Exploring AI models, training techniques, and building **intelligent Python-based systems**.
 
 ---
 
@@ -80,5 +85,10 @@
 - 💼 [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile/)  
 - 📧 [muzamil.ali1099@gmail.com](mailto:muzamil.ali1099@gmail.com)  
 - 🤝 Always open to collaboration on game dev, web, or AI-based projects
+
+---
+
+> “Code is not just code. It’s a story, an idea, a purpose — and I aim to tell great ones.”  
+> — *Muzamil Ali Suleman*
 
 ---
