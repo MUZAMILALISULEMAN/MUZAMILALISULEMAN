@@ -1,4 +1,4 @@
-<!-- Banner Image -->
+<!-- 🖼️ Banner -->
 <p align="center">
   <img src="https://www.canva.com/design/DAGn__xwTlA/RRwgT2ZI3uyp5rIry1c18w/view?utm_content=DAGn__xwTlA&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=he276476a82" alt="Banner" />
 </p>
@@ -44,10 +44,12 @@
 
 ## 🚀 Core Skills
 
-- 🎮 **Game Development**: Creating GUI-driven C++ games with Raylib
-- 🌐 **Frontend Development**: Interactive UIs using React & modern web practices
-- 🧩 **Object-Oriented Programming**: Deep understanding of OOP principles
-- 🧠 **AI & Machine Learning**: Exploring models, intelligent systems, and data science foundations
+| Skill | Description |
+|-------|-------------|
+| ![Game Dev](https://img.shields.io/badge/Game_Development-FF5733?style=for-the-badge&logo=godot-engine&logoColor=white) | Creating GUI-based games in **C++ using Raylib** with custom mechanics, multiplayer features & scaling UI |
+| ![Frontend Dev](https://img.shields.io/badge/Web_Development-00BFFF?style=for-the-badge&logo=javascript&logoColor=white) | Responsive frontend development using **React**, **JavaScript**, **HTML/CSS**, and interactive UI design |
+| ![OOP](https://img.shields.io/badge/OOP_Principles-8E44AD?style=for-the-badge&logo=codefactor&logoColor=white) | Mastery in **object-oriented design**, encapsulation, inheritance, and software architecture patterns |
+| ![AI/ML](https://img.shields.io/badge/AI_&_ML_Exploration-2ECC71?style=for-the-badge&logo=keras&logoColor=white) | Beginner-level **AI/ML development** using Python, with focus on model training, optimization, and simulations |
 
 ---
 
@@ -55,9 +57,9 @@
 
 | Project | Description |
 |--------|-------------|
-| 🎮 **Multiplayer Pong Game** | Classic Pong reimagined in C++ with Raylib. Multiplayer modes, skins, achievements & scalable UI. |
-| 🧠 **Mind Discipline Tracker** *(In Progress)* | A CLI-based Python tool for habit tracking and self-reflection. |
-| 🤖 **AI Exploration Zone** *(Coming Soon)* | A personal sandbox for testing AI/ML models, optimizations, and simulations. |
+| 🎮 **Multiplayer Pong Game** | A retro-style Pong game developed in **C++ with Raylib**. Includes multiplayer support, skins, achievements, and responsive UI scaling. |
+| 🌦️ **Weather App** | A responsive web app that fetches real-time weather data for any city using **OpenWeatherMap API**. Built with **pure HTML, CSS, and JavaScript**, no frameworks. |
+| 📦 **Inventory Management System (CLI)** | A **C-based command-line tool** for managing inventory items. Supports full **CRUD operations** (add, update, delete, view) using **file handling** for persistent storage. |
 
 ---
 
@@ -69,23 +71,14 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MUZAMILALISULEMAN&show_icons=true&theme=default" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MUZAMILALISULEMAN&layout=compact&theme=default" height="160" />
-</p>
-
-
----
-
-## 📬 Connect with Me
-
-<p align="center">
-  <a href="mailto:muzamil.ali1099@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://www.linkedin.com/in/your-linkedin-id/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
 </p>
 
 ---
 
-> *“The only way to do great work is to love what you do.” – Steve Jobs*
+## 📬 Let's Connect
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile/)  
+- 📧 [muzamil.ali1099@gmail.com](mailto:muzamil.ali1099@gmail.com)  
+- 🤝 Always open to collaboration on game dev, web, or AI-based projects
+
+---
