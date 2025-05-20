@@ -2,7 +2,7 @@
 <p align="center">
   <img src="https://github.com/MUZAMILALISULEMAN
 /MUZAMILALISULEMAN
-/blob/main/banner.jpg?raw=true" alt="Banner" />
+/blob/main/img.jpg?raw=true" alt="Banner" />
 </p>
 
 </p>
