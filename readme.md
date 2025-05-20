@@ -1,6 +1,6 @@
 <!-- Banner Image -->
 <p align="center">
-  <img src="https://your-banner-link.com/banner.png" alt="Banner" />
+  <img src="https://www.canva.com/design/DAGn__xwTlA/RRwgT2ZI3uyp5rIry1c18w/view?utm_content=DAGn__xwTlA&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=he276476a82" alt="Banner" />
 </p>
 
 <h1 align="center">Hi there, I'm Muzamil Ali Suleman! 👋</h1>
@@ -72,9 +72,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MUZAMILALISULEMAN&layout=compact&theme=default" height="160" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=MUZAMILALISULEMAN&theme=default" height="160"/>
-</p>
 
 ---
 
