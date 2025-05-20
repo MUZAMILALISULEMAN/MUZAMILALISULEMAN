@@ -1,6 +1,10 @@
 
 <p align="center">
-  <img src="https://www.canva.com/design/DAGn__xwTlA/RRwgT2ZI3uyp5rIry1c18w/view?utm_content=DAGn__xwTlA&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=he276476a82" alt="Banner" />
+  <img src="https://github.com/MUZAMILALISULEMAN
+/MUZAMILALISULEMAN
+/blob/main/banner.jpg?raw=true" alt="Banner" />
+</p>
+
 </p>
 
 <h1 align="center">Hi there, I'm Muzamil Ali Suleman! 👋</h1>
