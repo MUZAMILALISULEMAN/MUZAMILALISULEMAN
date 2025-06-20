@@ -62,7 +62,7 @@
 
 | Project | Description |
 |--------|-------------|
-| ⚡ [Simple User CRUD API (FastAPI + SQLite3)](https://github.com/MUZAMILALISULEMAN/Simple-User-CRUD-API-FastAPI-SQLite3) | A clean and functional REST API for user management built using **FastAPI**, featuring full CRUD operations, Pydantic validation, and deployment-ready structure. |
+| ⚡ [Simple User CRUD API (FastAPI + SQLite3)](https://muzamilalisuleman.github.io/Simple-User-CRUD-API-FastAPI-SQLite3/) | A clean and functional REST API for user management built using **FastAPI**, featuring full CRUD operations, Pydantic validation, and deployment-ready structure. |
 | 😄 [Emoji Reaction AI](https://github.com/MUZAMILALISULEMAN/EMOJI-REACTION-AI-INTEGRATED) | Integrates facial emotion recognition via AI and generates **smart emoji reactions**. Uses **OpenCV + Deep Learning** under the hood. |
 | 🎮 **Multiplayer Pong Game** | A polished Pong game written in **C++ using Raylib**. Features multiplayer logic, visual customizations, and responsive design. |
 | 📦 **Inventory Management CLI (C)** | Terminal-based CRUD inventory system using **C and file handling**, built for offline small-scale systems. |
