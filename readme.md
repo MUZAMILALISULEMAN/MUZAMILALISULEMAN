@@ -65,7 +65,7 @@
 | ⚡ [Simple User CRUD API (FastAPI + SQLite3)](https://muzamilalisuleman.github.io/Simple-User-CRUD-API-FastAPI-SQLite3/) | A clean and functional REST API for user management built using **FastAPI**, featuring full CRUD operations, Pydantic validation, and deployment-ready structure. |
 | 😄 [Emoji Reaction AI](https://muzamilalisuleman.github.io/EMOJI-REACTION-AI-INTEGRATED/) | Integrates facial emotion recognition via AI and generates **smart emoji reactions**. Uses **OpenCV + Deep Learning** under the hood. |
 | 🎮 [Multiplayer Pong Game](https://github.com/yourusername/multiplayer-pong-game) | A polished Pong game written in **C++ using Raylib**. Features multiplayer logic, visual customizations, and responsive design. |
-| 📦 [Inventory Management CLI (C)](https://github.com/yourusername/inventory-management-cli) | Terminal-based CRUD inventory system using **C and file handling**, built for offline small-scale systems. |
+| 📦 [Inventory Management CLI (C)](https://github.com/MUZAMILALISULEMAN/Inventory-Management-System-C) | Terminal-based CRUD inventory system using **C and file handling**, built for offline small-scale systems. |
 | 🌦️ [Weather Web App](https://muzamilalisuleman.github.io/Weather-Masters-Simple-Dynamic-Weather-App/) | Fetches real-time weather using **OpenWeatherMap API**, built in vanilla HTML/CSS/JS and hosted via **GitHub Pages**. |
 
 
