@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=0A7EB6&center=true&width=800&lines=Aspiring+Software+Engineer;Full-Stack+FastAPI+Developer;AI+%26+ML+Explorer;DevOps+&+Deployment+Learner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=0A7EB6&center=true&width=800&lines=Aspiring+Software+Engineer;Full-Stack+FastAPI+Developer;AI+%26+ML+Explorer;DevOps+%26+Deployment+Learner" alt="Typing SVG" />
 </p>
 
 ---
@@ -13,7 +13,7 @@
 
 🎓 I'm a Computer Science student at **FAST NUCES Karachi**, graduating in **2028**.  
 🧠 Passionate about **building immersive games**, exploring **AI/ML**, and crafting **powerful full-stack systems**.  
-💡 Currently focused on **FastAPI, Python**, and deploying web APIs with **render.com, GitHub Pages**, and MySQL/SQLite databases.
+💡 Currently focused on **FastAPI, Python**, and deploying APIs with **Render**, **GitHub Pages**, and **MySQL/SQLite**.
 
 ---
 
@@ -30,11 +30,13 @@
 **Frameworks & Libraries**  
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![Raylib](https://img.shields.io/badge/Raylib-000000?style=for-the-badge)
-
+![Pydantic](https://img.shields.io/badge/Pydantic-306998?style=for-the-badge&logo=python&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-F00020?style=for-the-badge)
 
 **Databases & DevOps**  
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Oracle](https://img.shields.io/badge/OracleSQL-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-00979D?style=for-the-badge&logo=render&logoColor=white)
 ![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-121013?style=for-the-badge&logo=github&logoColor=white)
 
@@ -46,15 +48,15 @@
 
 ## 🚀 Core Skills
 
-- ⚙️ **FastAPI Backend Development** — Building robust REST APIs with SQLite3/MySQL, validation, error handling, and deployment with Render.
+- ⚙️ **FastAPI Backend Development** — Building robust REST APIs with **Pydantic**, **SQLAlchemy**, and database integration using **SQLite3**, **MySQL**, and **Oracle SQL**. Fully deployed on **Render** with error handling and clean code.
 
-- 🎮 **Game Development** — Creating 2D games in C++ using Raylib, with a focus on gameplay mechanics and multiplayer systems.
+- 🎮 **Game Development** — Creating 2D games in **C++ using Raylib**, focusing on game mechanics, multiplayer logic, and fun UI experiences.
 
-- 🌐 **Frontend & Web Fundamentals** — Clean, responsive design using HTML/CSS/JS. React knowledge in progress for dynamic UIs.
+- 🌐 **Frontend & Web Fundamentals** — Clean and responsive design using **HTML/CSS/JavaScript**. Currently learning **React** for dynamic web interfaces.
 
-- 🤖 **AI Integration** — Experimenting with AI models using Python, including emotion recognition and automated responses.
+- 🤖 **AI Integration** — Leveraging AI/ML with Python libraries. Built projects like emoji prediction and emotion-based reactions using **TextBlob**, image processing, and facial emotion recognition.
 
-- 📦 **Database Management** — Designing and connecting databases using SQLite, MySQL, and ORM tools for efficient data storage.
+- 🗃️ **Database Management** — Experience designing, querying, and managing data using **SQLite**, **MySQL**, **Oracle SQL**, and using **ORM tools like SQLAlchemy**.
 
 ---
 
@@ -62,12 +64,11 @@
 
 | Project | Description |
 |--------|-------------|
-| ⚡ [Simple User CRUD API (FastAPI + SQLite3)](https://muzamilalisuleman.github.io/Simple-User-CRUD-API-FastAPI-SQLite3/) | A clean and functional REST API for user management built using **FastAPI**, featuring full CRUD operations, Pydantic validation, and deployment-ready structure. |
-| 😄 [Emoji Reaction AI](https://muzamilalisuleman.github.io/EMOJI-REACTION-AI-INTEGRATED/) | Integrates facial emotion recognition via AI and generates **smart emoji reactions**. Uses **TextBlob** under the hood. |
-| 🎮 [Multiplayer Pong Game](https://github.com/MUZAMILALISULEMAN/Pong-OOP) | A polished Pong game written in **C++ using Raylib**. Features multiplayer logic, visual customizations, and responsive design. |
-| 📦 [Inventory Management CLI (C)](https://github.com/MUZAMILALISULEMAN/Inventory-Management-System-C) | Terminal-based CRUD inventory system using **C and file handling**, built for offline small-scale systems. |
-| 🌦️ [Weather Web App](https://muzamilalisuleman.github.io/Weather-Masters-Simple-Dynamic-Weather-App/) | Fetches real-time weather using **OpenWeatherMap API**, built in vanilla HTML/CSS/JS and hosted via **GitHub Pages**. |
-
+| ⚡ [Simple User CRUD API (FastAPI + SQLite3)](https://muzamilalisuleman.github.io/Simple-User-CRUD-API-FastAPI-SQLite3/) | A clean and functional REST API for user management built using **FastAPI**, **Pydantic**, and **SQLAlchemy**. Deployed on **Render**. |
+| 😄 [Emoji Reaction AI](https://muzamilalisuleman.github.io/EMOJI-REACTION-AI-INTEGRATED/) | AI-powered app that detects facial emotions and shows real-time emoji responses using **TextBlob** and emotion classification. |
+| 🎮 [Multiplayer Pong Game](https://github.com/MUZAMILALISULEMAN/Pong-OOP) | A polished Pong game in **C++ using Raylib**, with multiplayer, custom visuals, and smooth UX. |
+| 📦 [Inventory Management CLI (C)](https://github.com/MUZAMILALISULEMAN/Inventory-Management-System-C) | Terminal-based inventory CRUD app built with **C** and file I/O — fast and lightweight for offline usage. |
+| 🌦️ [Weather Web App](https://muzamilalisuleman.github.io/Weather-Masters-Simple-Dynamic-Weather-App/) | Fetches real-time weather from **OpenWeatherMap API**, built with **vanilla JS** and deployed via **GitHub Pages**. |
 
 ---
 
