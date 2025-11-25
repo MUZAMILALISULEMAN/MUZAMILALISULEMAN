@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Muzamil Ali Suleman! 👋</h1>
 <p align="center">
-  🎮 Game Developer | 🌐 Web Developer | 🤖 AI Enthusiast | 🧠 ML Explorer | 🗃️ DB Manager | 🧩 Full-Stack Learner | 🚀 DevOps Curious
+  🎮 Game Developer | 🌐 Web Developer | 🤖 AI Enthusiast | 🧠 Security Analyst | 🗃️ DB Manager | 🧩 Full-Stack Learner | 🚀 DevOps Curious
 </p>
 
 <p align="center">
@@ -13,7 +13,7 @@
 
 🎓 I'm a Computer Science student at **FAST NUCES Karachi**, graduating in **2028**.  
 🧠 Passionate about **building immersive games**, exploring **AI/ML**, and crafting **powerful full-stack systems**.  
-💡 Currently focused on **FastAPI, Python**, and deploying APIs with **Render**, **GitHub Pages**, and **MySQL/SQLite**.
+💡 Currently focused on **Security, React**, and deploying APIs with **Cloud**, **GitHub Pages**, and **Vercel**.
 
 ---
 
