@@ -52,7 +52,7 @@
 
 - ⚙️ **FastAPI Backend Development** — Building robust REST APIs with **Pydantic**, **SQLAlchemy**, and database integration using **SQLite3**, **MySQL**, and **Oracle SQL**. Fully deployed on **Render** with error handling and clean code.
 
-- 🎮 **Game Development** — Creating 2D games in **C++ using Raylib**, focusing on game mechanics, multiplayer logic, and fun UI experiences.
+- 🎮 **Game Development** — Creating 2D games in **C++ using Raylib**, focusing on game mechanics, multiplayer logic, game dynamics and fun UI experiences.
 
 - 🌐 **Frontend & Web Fundamentals** — Clean and responsive design using **HTML/CSS/JavaScript**. Currently learning **React** for dynamic web interfaces.
 
