@@ -1,4 +1,4 @@
-<h1 align="center">Muzamil Ali</h1>
+<h1 align="center">Muzamil Suleman</h1>
 <p align="center">CS Student @ FAST-NUCES Karachi · AI Engineering & Full-Stack Development</p>
 
 <p align="center">
