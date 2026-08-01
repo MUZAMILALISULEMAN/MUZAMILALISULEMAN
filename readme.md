@@ -2,7 +2,7 @@
 <p align="center">CS Student @ FAST-NUCES Karachi · AI Engineering & Full-Stack Development</p>
 
 <p align="center">
-  <a href="https://muzamil-portfolio-ebon.vercel.app">Portfolio</a> ·
+  <a href="https://muzamilali.online/">Portfolio</a> ·
   <a href="https://www.linkedin.com/in/muzamil-ali-b771aa356">LinkedIn</a> ·
   <a href="mailto:muzamil.workdev@gmail.com">Email</a>
 </p>
